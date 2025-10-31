@@ -64,7 +64,7 @@ Workers display when they receive and complete tasks
 
 ---
  ## output 
- ###Master.py
- <img width="1009" height="599" alt="Screenshot from 2025-10-31 10-54-17" src="https://github.com/user-attachments/assets/32e7cbcb-9aad-46aa-8f3f-545a40f007a4" />
- ###worker.py
-<img width="1009" height="599" alt="Screenshot from 2025-10-31 10-54-17(1)" src="https://github.com/user-attachments/assets/826e8711-e6fe-4ee7-8ce5-3f7f10d5ebb4" />
+ Worker.py 
+ <img width="700" height="400" alt="Screenshot from 2025-10-31 10-54-17" src="https://github.com/user-attachments/assets/32e7cbcb-9aad-46aa-8f3f-545a40f007a4" />
+ Master.py
+<img width="700" height="400" alt="Screenshot from 2025-10-31 10-54-17(1)" src="https://github.com/user-attachments/assets/826e8711-e6fe-4ee7-8ce5-3f7f10d5ebb4" />
