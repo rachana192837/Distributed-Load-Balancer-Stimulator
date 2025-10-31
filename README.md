@@ -37,10 +37,10 @@ Cross-terminal setup for a realistic multi-node experience
 ---
 
 ## Project Structure
-distributed-load-balancer/ │ 
-├── master.py          # Load balancer (server) 
-├── worker.py          # Worker node (client) 
-├── README.md          # Documentation
+distributed-load-balancer/ │ <br>
+├── master.py          # Load balancer (server) <br>
+├── worker.py          # Worker node (client) <br>
+├── README.md          # Documentation <br>
 
 ---
 ## How to Run
